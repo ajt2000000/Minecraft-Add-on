@@ -2,7 +2,7 @@
 このGithubにアドオンを配布したい場合
 https://forms.gle/5MCdM42QRBsQQupt6
 
-マイクラ無料ダウンロード
+# マイクラ無料ダウンロード
 まずこの動画を見てください
 https://www.youtube.com/watch?v=MsdhIZ3v8Y0
 
