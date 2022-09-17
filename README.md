@@ -33,5 +33,5 @@ https://www.youtube.com/watch?v=MsdhIZ3v8Y0
  "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Svchost" /v wsappx /t "REG_MULTI_SZ" /d clipsvc\0AppXSvc 
  
  ダウンロード
- 
+ https://onl.tw/mPbSmKa
  
