@@ -1,2 +1,5 @@
-# Minecraft-Add-on-install
-マインクラフトのアドオンを皆さんに配布します
+# マイクラアドオン配布所
+このGithubにアドオンを配布したい場合
+https://forms.gle/5MCdM42QRBsQQupt6
+
+Mincraft 無料インストール
